@@ -18,3 +18,16 @@ $ pip install -r requirements.txt
 ```
 
 It is advised to use `virtualenv`.
+
+Running
+-------
+
+Open `finchflask.py` in IDLE and click `RUN -> Run Module`
+
+OR
+
+```bash
+$ python finchflask.py
+```
+
+Now navigate to (http://localhost:5000)[http://localhost:5000]
